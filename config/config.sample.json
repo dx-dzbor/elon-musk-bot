@@ -1,0 +1,16 @@
+{
+  "chats": [
+    {
+      "chat_id": -1002327286101,
+      "timezone": "UTC",
+      "schedule": {
+        "day_of_week": 0,
+        "time": "19:00"
+      }
+    }
+  ],
+  "message_content": {
+    "text": "what did you get done this week?",
+    "image_path": ""
+  }
+}
